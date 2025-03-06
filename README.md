@@ -49,7 +49,7 @@ python login.py
 ## 📂 Estructura del Proyecto
 ```
 /
-├── SistemaMonitoreoSomnolencia/
+├── proyectoSomnolenciaFinal/
 │   ├── imagenes/
 │   ├── activities.py
 │   ├── ayudas.py
