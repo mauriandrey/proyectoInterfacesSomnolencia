@@ -20,11 +20,11 @@ Este proyecto implementa un sistema basado en visión por computadora para el mo
 ## Instalación
 ## 1️⃣ 📥Clona el repositorio:
    ```bash
-   git clone https://github.com/mauriandrey/Proyecto-Interfaces-y-Multimedia.git
+   git clone https://github.com/STAlinRoche/proyectoInterfacesSomnolencia.git
    ```
 ## 2️⃣ 📂Accede al directorio del proyecto:
    ```bash
-   cd Proyecto-Interfaces-y-Multimedia
+   cd proyectoInterfacesSomnolencia
    ```
 ## 3️⃣ 🏗️Crea un entorno virtual y actívalo:
    ```bash
