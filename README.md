@@ -18,28 +18,29 @@ Este proyecto implementa un sistema basado en visión por computadora para el mo
 - 💻 **Entorno**: Windows 10
 
 ## Instalación
-## 1️⃣ 📥Clona el repositorio:
+### 1️⃣ 📥Clona el repositorio:
    ```bash
    git clone https://github.com/STAlinRoche/proyectoInterfacesSomnolencia.git
    ```
-## 2️⃣ 📂Accede al directorio del proyecto:
+### 2️⃣ 📂Accede al directorio del proyecto:
    ```bash
    cd proyectoInterfacesSomnolencia
    ```
-## 3️⃣ 🏗️Crea un entorno virtual y actívalo:
+### 3️⃣ 🏗️Crea un entorno virtual y actívalo:
    ```bash
    python -m venv venv
    source venv/bin/activate  # En Linux/Mac
    venv\Scripts\activate  # En Windows
    ```
-## 4️⃣ 🐍Instala la versión de Python 3.10.0.
+### 4️⃣ 🐍Instala la versión de Python 3.10.0.
    
-## 5️⃣ 📦Instala las dependencias:
+### 5️⃣ 📦Instala las dependencias:
    ```bash
    pip install -r requirements.txt
    ```
-## 6️⃣ 🗄️ Configura la base de datos PostgreSQL y actualiza los parámetros en `config.py`.
+### 6️⃣ 🗄️ Configura la base de datos PostgreSQL y actualiza los parámetros en `tablaBD.txt`.
 
+##
 ## ▶️ Uso
 Ejecuta el sistema con:
 ```bash
