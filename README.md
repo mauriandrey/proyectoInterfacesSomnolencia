@@ -88,5 +88,5 @@ python login.py
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
 
 ## 📩Contacto
-Para consultas o colaboraciones, puedes contactarme en: matandazo3@espe.edu.ec
+Para consultas o colaboraciones, puedes contactarme en: sfroche@espe.edu.ec
 
